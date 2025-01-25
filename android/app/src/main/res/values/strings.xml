@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">firebaselogin2</string>
+    <string name="title_activity_main">firebaselogin2</string>
+    <string name="package_name">com.login.login2</string>
+    <string name="custom_url_scheme">com.login.login2</string>
+    <string name="server_client_id">668167011694-q8jad1h3rns9nqg5k41dd228ed018h0k.apps.googleusercontent.com</string>
+</resources>
